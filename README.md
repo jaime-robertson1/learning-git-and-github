@@ -11,4 +11,4 @@ Completing these activities have allowed me to gain confidence in using Git and 
 
 .gitignore purpose:
 
-    The .gitignore file allows us to hide certain parts of our code that we don't want or need other people to see. Things included in the .gitignore file are ignored when we         push our code to GitHub. Passwords + sensitive info along with system files are examples of things we may want to hide.
+    The .gitignore file allows us to hide certain parts of our code that we don't want or need other people to see. Things included in the .gitignore file are ignored when we push our code to GitHub. Passwords + sensitive info along with system files are examples of things we may want to hide.
